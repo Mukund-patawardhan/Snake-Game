@@ -1,2 +1,2 @@
-# Snake-Game
-C 31 Project
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
